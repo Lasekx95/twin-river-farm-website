@@ -4,6 +4,5 @@ $("#menu").on("click", function(){
     $(window).on('scroll', function(){
         $("#navbar-hamburger").hide();
         $("#hero_index").show();
-        $('##menu').hide()
     })
 })
